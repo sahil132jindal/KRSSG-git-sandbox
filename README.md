@@ -23,6 +23,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 Aritra Gangopadhyay https://github.com/iamllawliet
+Commit 1
 
 ## Task 2
 
