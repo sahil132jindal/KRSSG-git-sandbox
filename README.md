@@ -24,6 +24,11 @@ Your entry should maintain alphabetic order and it should be in the format:
 ### Entries
 Aritra Gangopadhyay https://github.com/iamllawliet
 Commit 1
+<<<<<<< HEAD
+=======
+Commit 2
+Commit 3
+>>>>>>> 3ff5bef... Commit 3
 
 ## Task 2
 
