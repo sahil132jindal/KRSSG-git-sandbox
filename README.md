@@ -22,7 +22,10 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+Aritra Gangopadhyay https://github.com/iamllawliet
+
 Sahil Jindal [sahil132jindal](http://github.com/sahil132jindal)
+
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
